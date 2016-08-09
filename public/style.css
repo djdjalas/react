@@ -1,0 +1,11 @@
+.disconnected {
+  height: 50px;
+  width: 50px;
+  background: red;
+}
+
+.connected {
+  height: 50px;
+  width: 50px;
+  background: green;
+}
